@@ -1,3 +1,7 @@
 Nombre: Juan Jose Gonzalez Morales
 Edad: 18 años
 Para mí, esta materia representa la oportunidad de explorar nuevas ideas, desafiarme a mí mismo y crecer como persona. Aspiro a aprender todo lo que pueda, no solo para obtener buenas notas, sino para desarrollar habilidades que me ayuden a alcanzar mis metas. 
+
+Ahora si es posible crear un commit ya que la carpeta archivos no esta vacia y se reconoce como un cambio.
+
+Es importante tener cuidado con esto ya que se pueden generar conflictos en los archivos y que la informacion dentro de estos se pueda perder.
