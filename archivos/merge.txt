@@ -1,0 +1,1 @@
+Ahora si es posible crear un commit ya que la carpeta archivos no esta vacia y se reconoce como un cambio.
